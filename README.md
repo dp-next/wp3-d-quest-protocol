@@ -1,6 +1,6 @@
 # wp3-d-quest-protocol: Protocol for collecting data for the questionnaire
 
-This repository and associated website contain details
+This repository and connected website contain details
 about how the data was collected for the DP-Next 
 questionnaire.
 
