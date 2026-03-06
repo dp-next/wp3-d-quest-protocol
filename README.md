@@ -1,6 +1,8 @@
-# wp3-d-quest-protocol: TODO add more to title
+# wp3-d-quest-protocol: Protocol for collecting data for the questionnaire
 
-<!-- TODO: Add description of project -->
+This repository and associated website contain details
+about how the data was collected for the DP-Next 
+questionnaire.
 
 > [!TIP]
 > This website repository was generated from the
