@@ -1,0 +1,41 @@
+project:
+  # TODO: Change to correct project type if using extensions
+  type: book
+
+book:
+  title: "Protocol WP3 questionnaire"
+  site-url: "https://dp-next.github.io/wp3-d-quest-protocol/"
+  repo-url: "https://github.com/dp-next/wp3-d-quest-protocol"
+  author:
+    - name: "Luke Johnston"
+      affiliation: "TODO: Fill in your affiliation"
+      orcid: "TODO: Fill in your ORCID"
+  # TODO: Set favicon if relevant.
+  # favicon: ""
+  repo-branch: main
+  repo-actions: [issue, edit, source]
+  search:
+    type: textbox
+  chapters:
+    - index.qmd
+  #  - part: "Sections"
+  #    chapters:
+  #    - path/to/file.qmd
+  # appendices:
+  #  - path/to/file.qmd
+  tools:
+    - icon: github
+      href: "https://github.com/dp-next/wp3-d-quest-protocol"
+      aria-label: "GitHub icon: Source repository"
+  page-footer:
+    center:
+      - text: "Licensed under CC BY 4.0"
+        href: "LICENSE.md"
+
+format:
+  # TODO: Use Quarto extension if available
+  html:
+    theme:
+      # TODO: Choose a different theme if desired
+      - litera
+      - custom-styles.scss
